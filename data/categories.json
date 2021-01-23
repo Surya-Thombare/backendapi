@@ -1,0 +1,58 @@
+[
+  {
+    "_id": 1,
+    "category": "Tech"
+  },
+  {
+    "_id": 2,
+    "category": "Politics"
+  },
+  {
+    "_id": 3,
+    "category": "Sci-Fi"
+  },
+  {
+    "_id": 4,
+    "category": "Sports"
+  },
+  {
+    "_id": 5,
+    "category": "Javscript"
+  },
+  {
+    "_id": 6,
+    "category": "Python"
+  },
+  {
+    "_id": 7,
+    "category": "React.js"
+  },
+  {
+    "_id": 8,
+    "category": "Artificial Intelligence"
+  },
+  {
+    "_id": 9,
+    "category": "MachineLearning"
+  },
+  {
+    "_id": 10,
+    "category": "Education"
+  },
+  {
+    "_id": 11,
+    "category": "History"
+  },
+  {
+    "_id": 12,
+    "category": "Programming"
+  },
+  {
+    "_id": 13,
+    "category": "Coding"
+  },
+  {
+    "_id": 14,
+    "category": "Movies"
+  }
+]

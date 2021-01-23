@@ -1,0 +1,35 @@
+..................CAPSTONE................
+>> AUTHORITIES >>
+	#user
+		User can create the post, update and delete his/her post.
+		User can read any blog post and can like, share, comment.
+		User can update his/her profile.
+		User can follow another user.
+		User can see other user's profile
+		user can follow categories (example:- politics, tech, sci-fi etc)
+		User can search any blog post
+		
+	#premiumUser
+		* he/she will get a special badge
+		* his/her comment will always be on the top or highlited comment.
+		* they can chat with every premium
+	
+	#admin
+		* he is the boss jo mrji kr skta hai
+		* they can update, delete any user and user's post
+>> Routes ************************************************************************************
+	#Users
+		> /profile => to get the details of own profile
+		> /home => All blogs will be displayed here...
+		> /myBlogs => All blogs published by the logged in user
+		> /collection => All blogs which added by a user to read later
+		> /membership => Here user will update profile normal user to premium user
+		> /
+	
+	
+	#Admin
+		> /user => to get all the users only allowed for admin
+	  ************************************************************************************
+>> Authentication
+	> /login => here user have to pass email and password to login
+	> /signup => here user have to pass email and password and username
